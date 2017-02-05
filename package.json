@@ -1,0 +1,15 @@
+{
+  "name": "trending-microservice",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "now -e ophobe_email=@ophobe_email -e ophobe_github_access_token=@ophobe_github_access_token"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "dotenv": "^4.0.0",
+    "express.co": "^1.0.3",
+    "moment": "^2.17.1",
+    "trending-github": "^1.0.0"
+  }
+}
