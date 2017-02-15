@@ -14,7 +14,7 @@ module.exports = [
   'java',
   'javascript',
   'julia',
-  'objective',
+  'objective-c',
   'php',
   'python',
   'r',
