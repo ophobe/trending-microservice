@@ -2,6 +2,12 @@
 
 module.exports = [
   '',
+  'abap',
+  'actionscript',
+  'ada',
+  'agda',
+  'arc',
+  'arduino',
   'c++',
   'c',
   'crystal',
@@ -9,6 +15,10 @@ module.exports = [
   'css',
   'dart',
   'elixir',
+  'elm',
+  'bison',
+  'eiffel',
+  'erlang',
   'go',
   'html',
   'java',
