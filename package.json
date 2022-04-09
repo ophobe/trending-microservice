@@ -9,7 +9,7 @@
     "axios": "^0.15.3",
     "dotenv": "^4.0.0",
     "express.co": "^1.0.3",
-    "moment": "^2.17.1",
+    "moment": "^2.29.2",
     "trending-github": "^2.0.1"
   }
 }
